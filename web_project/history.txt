@@ -1,0 +1,500 @@
+   27  py3 manage.py startapp record_app
+   28  py3 manage.py migrate
+   29  py3 manage.py runserver
+   30  cd ..
+   31  git add .gitignore
+   32  git add *
+   33  git status -m 'March 6th'
+   34  git commit -m 'March 6th'
+   35  git push origin master
+   36  cd march1_bus_fin/
+   37  git status
+   38  git add * 
+   39  git commit -m "exercise"
+   40  git push origin master
+   41  cd class_python_101/
+   42  subl .
+   43  mkdir march8
+   44  cd march8/
+   45  touch one.py
+   46  touch two.py
+   47  subl .
+   48  py3 one.py 
+   49  py3 one.py 
+   50  py3 one.py 
+   51  py3 one.py 
+   52  py3 one.py 
+   53  py3 one.py 
+   54  py3 one.py 
+   55  py3 one.py 
+   56  py3 two.py 
+   57  py3 two.py 
+   58  py3 two.py 
+   59  py3
+   60  py3
+   61  py3 two.py 
+   62  py3 two.py 
+   63  py3 two.py 
+   64  py3 two.py 
+   65  py3 two.py 
+   66  py3 two.py 
+   67  py3
+   68  py3 two.py 
+   69  py3 two.py 
+   70  py3 two.py 
+   71  py3 two.py 
+   72  py3
+   73  py3 two.py 
+   74  py3 two.py 
+   75  py3 two.py 
+   76  py3 two.py 
+   77  py3 two.py 
+   78  py3
+   79  py3 two.py 
+   80  py3 two.py 
+   81  py3 two.py 
+   82  py3 two.py 
+   83  py3 one.py 
+   84  cd Desktop/
+   85  ls
+   86  cd python_business_finance/
+   87  cd class_two/
+   88  py3 beta_alpha_calc.py 
+   89  py3 beta_alpha_calc.py 
+   90  /Users/mclaren/anaconda/bin/jupyter_mac.command ; exit;
+   91  cd march6/
+   92  ls
+   93  cd ..
+   94  cd march
+   95  cd march1_bus_fin/
+   96  ls
+   97  git add *
+   98  git commit -m "march 8th"
+   99  git push origin master
+  100  cd Desktop/
+  101  cd practical_site/
+  102  subl .
+  103  class_python_101/
+  104  subl .
+  105  cd class_python_101/
+  106  subl .
+  107  cd ..
+  108  git clone https://github.com/richcorrado/MNIST-digits.git
+  109  /Users/mclaren/anaconda/bin/jupyter_mac.command ; exit;
+  110  /Users/mclaren/anaconda/bin/jupyter_mac.command ; exit;
+  111  /Users/mclaren/anaconda/bin/jupyter_mac.command ; exit;
+  112  cd Desktop/
+  113  cd click_solutions
+  114  cd ..
+  115  cd zingpython
+  116  ls
+  117  subl .
+  118  cd Desktop/
+  119  cd 3-foot-traffic/
+  120  py3 traffic.py 
+  121  sqlite3 columbia.db
+  122  ls
+  123  sqlite3 columbia.db 
+  124  ls
+  125  columbia.db sqlite
+  126  columbia.db sqlite3
+  127  /Users/mclaren/anaconda/bin/jupyter_mac.command ; exit;
+  128  cd Desktop/
+  129  cd finformat/
+  130  subl .
+  131  cd Downloads/
+  132  cd startbootstrap-creative-gh-pages/
+  133  ls
+  134  git init
+  135  git add *
+  136  git status
+  137  git commit -m "site"
+  138  git remote add origin https://github.com/artyudin/mynewwebsite.github.io.git
+  139  git push -u origin master
+  140  cd Downloads/
+  141  cd startbootstrap-creative-gh-pages/
+  142  git init
+  143  git add *
+  144  git status
+  145  git commit -m "site"
+  146  git remote add origin https://github.com/artyudin/artyudin.github.io.git
+  147  git push -u origin master
+  148  cd Downloads/
+  149  ls
+  150  cd startbootstrap-new-age-gh-pages/
+  151  git init
+  152  git add *
+  153  git status
+  154  git commit -m "first commit"
+  155  git remote add origin https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  156  git push -u origin master
+  157  cd Desktop/
+  158  ls
+  159  git clone https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  160  cd learntocodewithus.github.io/
+  161  ls
+  162  touch index.html
+  163  subl .
+  164  git status
+  165  git add index.html 
+  166  git status
+  167  git push origin master
+  168  git commit -m "jj"
+  169  git push origin master
+  170  git clone
+  171  git clone https://github.com/learntocodewithus/march.git
+  172  cd march
+  173  ls
+  174  touch fileone.txt
+  175  touch filetwo.txt
+  176  git status
+  177  touch .gitignore
+  178  subl .
+  179  git add .gitignore 
+  180  ls
+  181  ls -a
+  182  git add .gitignore 
+  183  git status
+  184  ls
+  185  git add *
+  186  git commit -m 'new"
+  187  git commit -m 'new'
+  188  quit
+  189  git status
+  190  git commit -m 'new message'
+  191  git push origin master
+  192  git checkout -b newmybranch
+  193  git branch
+  194  ls
+  195  subl .
+  196  git add *
+  197  it status
+  198  git status
+  199  git commit -m 'bbb'
+  200  git push origin master
+  201  git add *
+  202  git push origin newmybranch
+  203  git status
+  204  git add *
+  205  git commit -m 'bbbddd'
+  206  git push origin newmybranch
+  207  git log
+  208  git
+  209  git clone https://github.com/learntocodewithus/mynewrepo.git
+  210  cd mynewrepo/
+  211  ls
+  212  check branch
+  213  git
+  214  git branch
+  215  git branch 
+  216  branch 
+  217  git branch -b
+  218  git branch -a
+  219  git branch -all
+  220  git branch --all
+  221  git branch new_branch
+  222  git branch new_branch
+  223  git checkout -b mynewbranch
+  224  git branch
+  225  git branch --all
+  226  git checkout
+  227  git branch --list
+  228  git --all
+  229  git branch --list
+  230  git branch --all
+  231  git status
+  232  git branch 
+  233  git branch -a
+  234  git 
+  235  git pull origin master
+  236  touch newfile.txt
+  237  git add newfile.txt 
+  238  git commit -m "new"
+  239  git push origin mynewbranch
+  240  git push origin mynewbranch
+  241  subl .
+  242  git add newfile.txt 
+  243  git commit -m "newh"
+  244  git push origin mynewbranch
+  245  git checkout master
+  246  git checkout -b master
+  247  git clone https://github.com/learntocodewithus/april.git
+  248  cd april
+  249  ls
+  250  ls -a
+  251  touch fileone.txt
+  252  touch filetwo.txt
+  253  ls
+  254  subl .
+  255  git status
+  256  git status
+  257  git status
+  258  git status
+  259  git add *
+  260  git status
+  261  git add .gitignore 
+  262  git status
+  263  git commit -m 'this is our first commit'
+  264  git status
+  265  git reset HEAD fileone.txt 
+  266  git status
+  267  git commit -m 'this is our first commits'
+  268  git push origin master
+  269  git push origin master
+  270  git branch
+  271  git checkout -b newbranch
+  272  git branch
+  273  git branch -a
+  274  git status
+  275  git add fileone.txt 
+  276  git commit -m "my second commit"
+  277  git push origin newbranch
+  278  git add fileone.txt 
+  279  git commit -m "my second commits"
+  280  git push origin newbranch
+  281  git branch
+  282  git checkout master
+  283  git branch
+  284  git pull origin master
+  285  git log
+  286  git clone https://github.com/learntocodewithus/nyc.git
+  287  cd nyc/
+  288  ls
+  289  ls -a
+  290  touch fileone.txt
+  291  touch filetwo.txt
+  292  ls
+  293  subl .
+  294  git status
+  295  git status
+  296  git status
+  297  git status
+  298  git status
+  299  git add .gitignore 
+  300  git add fileone.txt 
+  301  git status
+  302  git reset HEAD fileone.txt 
+  303  git status
+  304  git add fileone.txt 
+  305  git commit -m "my first commit"
+  306  git push origin master
+  307  git push origin master
+  308  git checkout -b newbranch
+  309  branch
+  310  git branch
+  311  git status
+  312  git add fileone.txt 
+  313  git status
+  314  git commit -m "my second commmit"
+  315  git push origin newbranch
+  316  git checkout newbranch
+  317  git checkout master
+  318  git branch
+  319  git pull origin master
+  320  mkdir githubsite
+  321  git clone  Set up in Desktop/or
+  322   HTTPS
+  323   SSH
+  324  https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  325  git clone https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  326  cd learntocodewithus.github.io/
+  327  ls
+  328  touch index.html
+  329  subl .
+  330  git add index.html 
+  331  git status
+  332  git commit -m "mysite"
+  333  git push origin master
+  334  git status
+  335  git add oldindex.html 
+  336  git commit -m "mysite2"
+  337  git push origin master
+  338  cd startbootstrap-blog-home/
+  339  ls
+  340  git init
+  341  subl .
+  342  git add *
+  343  git status
+  344  git status
+  345  ls
+  346  git add css/
+  347  git status
+  348  git commit -m  'nnn'
+  349  git remote add origin https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  350  git push -u origin master
+  351  git push -u origin master
+  352  cd Desktop/
+  353  cd zingpython
+  354  subl .
+  355  cd Downloads/
+  356  cd startbootstrap-new-age-gh-pages/
+  357  ls
+  358  subl .
+  359  git add *
+  360  git init
+  361  git add *
+  362  git status
+  363  git commit -m "new site"
+  364  git remote add origin https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  365  git push -u origin master
+  366  cd feb_webapp/
+  367  subl .
+  368  git
+  369  cd Downloads/
+  370  cd startbootstrap-creative-gh-pages/
+  371  ls
+  372  subl .
+  373  ls
+  374  git init
+  375  git add *
+  376  git status
+  377  git commit -m "my new site"
+  378  git remote add origin https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  379  git push -u origin master
+  380  git push -u origin master
+  381  git
+  382  git clone https://github.com/learntocodewithus/mondayclass.git
+  383  cd mondayclass/
+  384  ls
+  385  ls -a
+  386  touch fileone.txt
+  387  touch filetwo.txt
+  388  sub .
+  389  subl .
+  390  git status
+  391  git status
+  392  git status
+  393  git add .gitignore
+  394  git status
+  395  git status
+  396  git add fileone.txt 
+  397  git status
+  398  git commit -m "my first commit"
+  399  git push origin master
+  400  git push origin master
+  401  git checkout -b newbranch
+  402  git branch
+  403  git status
+  404  git add fileone.txt 
+  405  git status
+  406  git commit -m "my secon commit"
+  407  git branch
+  408  git push origin newbranch
+  409  git branch
+  410  git checkout master
+  411  git pull origin master
+  412  git clone https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  413  cd Desktop/
+  414  git clone https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  415  git clone https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  416  cd learntocodewithus.github.io/
+  417  ls
+  418  touch index.html
+  419  subl .
+  420  git status
+  421  git add index.html 
+  422  git status
+  423  git commit -m "my web site"
+  424  git push origin master
+  425  cd programwithus/
+  426  source env/bin/activate
+  427  cd pr
+  428  cd project/
+  429  ls
+  430  py3 manage.py runserver
+  431  subl .
+  432  py3 manage.py runserver
+  433  py3 manage.py runserver
+  434  py3 manage.py runserver
+  435  py3 manage.py runserver
+  436  py3 manage.py runserver
+  437  py3 manage.py makemigrations
+  438  py3 manage.py migrate
+  439  py3 manage.py runserver
+  440  py3 manage.py makemigrations
+  441  py3 manage.py makemigrations
+  442  py3 manage.py makemigrations
+  443  py3 manage.py migrate
+  444  py3 manage.py runserver
+  445  cd Downloads/
+  446  cd startbootstrap-creative-gh-pages/
+  447  ls
+  448  git init
+  449  git add *
+  450  git status
+  451  git commit -m "first commit"
+  452  git remote add origin https://github.com/learntocodewithus/learntocodewithus.github.io.git
+  453  git push -u origin master
+  454  subl .
+  455  git add *
+  456  git commit -m "second commit"
+  457  git push origin master
+  458  git clone https://github.com/learntocodewithus/newmondayrepo.git
+  459  cd newmondayrepo/
+  460  ls
+  461  touch filethree.txt
+  462  ls
+  463  git status
+  464  git add filethree.txt 
+  465  git status
+  466  git reset HEAD filethree.txt 
+  467  git status
+  468  git add filethree.txt 
+  469  git status
+  470  git commit -m "my newfile"
+  471  git push origin master
+  472  git push origin master
+  473  cd Desktop/
+  474  cd platform
+  475  subl .
+  476  cd Desktop/
+  477  git clone https://github.com/zingpython/march_web_app.git
+  478  cd march_web_app/
+  479  ls
+  480  virtualenv env
+  481  ls
+  482  source env/bin/activate
+  483  ls
+  484  pip3 install -r requirements.txt 
+  485  cd web_project/
+  486  ls
+  487  py3 manage.py migrate
+  488  ls
+  489  py3 manage.py runserver
+  490  subl .
+  491  cd Desktop/
+  492  git clone https://github.com/zingpython/march_web_app.git
+  493  git clone https://github.com/zingpython/march_web_app.git
+  494  cd Desktop/
+  495  git clone https://github.com/zingpython/march_web_app.git
+  496  cd march_web_app/
+  497  ls
+  498  virtualenv env
+  499  python -v
+  500  ls
+  501  ls
+  502  source env/bin/activate
+  503  python -version
+  504  python --v
+  505  which -a python
+  506  pip3 install -r requirements.txt 
+  507  cd web_project/
+  508  ls
+  509  py3 manage.py migrate
+  510  subl .
+  511  ls
+  512  py3 manage.py makemigrations
+  513  py3 manage.py makemigrations
+  514  py3 manage.py makemigrations
+  515  py3 manage.py
+  516  py3 manage.py createsuperuser
+  517  py3 manage.py makemigrations
+  518  py3 manage.py migrate
+  519  py3 manage.py runserver
+  520  git status
+  521  git add *
+  522  git status
+  523  git commit -m "March 13th"
+  524  git push origin master
+  525  git branch
+  526  history > history.txt
