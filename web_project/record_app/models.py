@@ -11,14 +11,3 @@ class Post(models.Model):
 	draft = models.BooleanField(default=False)
 	updated = models.DateField(auto_now=True, auto_now_add=False)
 	published = models.DateField(auto_now=False, auto_now_add=True)
-
-	class Meta:
-		ordering = ['-published']
-
-	def __str__(self):
-
-		return self.title
-
-	def __unicode__(self):
-		
-		 return str(self.title)
