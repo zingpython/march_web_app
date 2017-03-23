@@ -1,5 +1,7 @@
 from django.db import models
 from django.conf import settings
+from django.urls import reverse
+
 
 class Post(models.Model):
 
@@ -11,3 +13,7 @@ class Post(models.Model):
 	draft = models.BooleanField(default=False)
 	updated = models.DateField(auto_now=True, auto_now_add=False)
 	published = models.DateField(auto_now=False, auto_now_add=True)
+
+
+	def get_absolute_url(self):
+		return reverse('records:detail_post', kwargs={'pk': self.pk})
