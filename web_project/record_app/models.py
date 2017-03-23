@@ -14,6 +14,9 @@ class Post(models.Model):
 	updated = models.DateField(auto_now=True, auto_now_add=False)
 	published = models.DateField(auto_now=False, auto_now_add=True)
 
+	class Meta:
+		ordering = ['-published']
+
 
 	def get_absolute_url(self):
 		return reverse('records:detail_post', kwargs={'pk': self.pk})
