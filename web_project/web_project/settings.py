@@ -25,7 +25,7 @@ SECRET_KEY = 'y94s^bf))4_hoe#0rp19t(5_==zmaosx3@juzwugbz%%d)q601'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -118,11 +118,13 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
-STATIC_URL = '/static/'
+# STATIC_URL = '/static/'
 # STATIC_URL = '/static/'
 STATIC_ROOT = '/static/'
+STATIC_URL = '/static/'
+STATIC_ROOT = '/var/www/venv/march_web_app/web_project/static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static")
+    os.path.join(BASE_DIR, "/var/www/venv/march_web_app/web_project/staticfiles")
 ]
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_ROOT = os.path.join(BASE_DIR, '/var/www/venv/march_web_app/web_project/media/')
